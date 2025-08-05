@@ -38,10 +38,5 @@ python main.py
 
 ---
 
-## 🎀 Screenshots
-
-> *(Add your app screenshots here to show off the look & features!)*
-
----
 
 ## 🧁 Made with 💗 by Aiman Ijaz
