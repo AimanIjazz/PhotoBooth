@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+*.exe
+*.zip
+*.DS_Store
+.vscode/
+.env
+assets/captured/
