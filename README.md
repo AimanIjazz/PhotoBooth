@@ -39,4 +39,3 @@ python main.py
 ---
 
 
-## 🧁 Made with 💗 by Aiman Ijaz
