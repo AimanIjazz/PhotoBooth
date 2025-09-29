@@ -1,6 +1,6 @@
 # 📸 VibeCam – A Girly Aesthetic Python PhotoBooth App
 
-**VibeCam by Aiman Ijaz** is a beautiful, pink-themed desktop PhotoBooth app built with PyQt6 and OpenCV.  
+Pink-themed desktop PhotoBooth app built with PyQt6 and OpenCV.  
 Capture your moments in style with aesthetic filters, a clean UI, and smooth webcam experience — all fully in Python!
 
 
